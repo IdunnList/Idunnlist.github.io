@@ -73,7 +73,12 @@
   {
     "file": "troll.png",
     "title": "Trøll",
-    "description": "Akrylmáling"
+    "description": "20x20, Akrylmáling"
+  },
+  {
+    "file": "trollogungi.png",
+    "title": "Trøll og fuglaungi",
+    "description": "20x20, Akrylmáling"
   },
   {
     "file": "ulka.png",
