@@ -15,6 +15,11 @@
     "description": "Akrylmáling"
   },
   {
+    "file": "bringureydi.png",
+    "title": "bringureyði",
+    "description": "Akrylmáling"
+  },
+  {
     "file": "hogguslokkar.png",
     "title": "Høgguslokkar",
     "description": "18x24, Akrylmáling"
@@ -28,11 +33,7 @@
     "file": "lundi I.png",
     "title": "Lundi I",
     "description": "20x20, Akrylmáling"
-  },
-  {
-    "file": "musahola I.png",
-    "title": "Músahola I",
-    "description": "20x40, Akrylmáling"
+
   },
   {
     "file": "musahola II.png",
